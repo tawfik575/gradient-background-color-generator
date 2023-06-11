@@ -1,6 +1,6 @@
 # Gradient Background Color Generator
 
-This is a simple web application that generates a gradient background color using HTML, CSS, and vanilla JavaScript. It allows the user to manually choose two colors using color pickers or generate a random gradient background color with the click of a button.
+This is a web-based tool developed using HTML, CSS, and vanilla JavaScript that allows users to easily generate and apply gradient background colors to their web pages. Users can manually choose colors or generate random gradient colors with a single click. The tool also provides the option to copy the CSS code for the generated gradient color. It is a simple yet handy utility for adding visually appealing background colors to the web projects.
 
 ![my screenshot](./images/screenshot.png)
 
