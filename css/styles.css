@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    letter-spacing: .5em;
+    text-transform: uppercase;
+
+    color: rgba(0, 0, 0, .5);
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    width: 100%;
+
+    text-align: center;
+    letter-spacing: .5em;
+    text-transform: uppercase;
+
+    color: rgba(0, 0, 0, .5);
+    font: 600 3.5em 'Raleway', sans-serif;
+}
+
+h2 {
+    margin-top: 4.0625rem;
+}
+
+h3 {
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+    color: rgba(0, 0, 0, .5);
+    font: 900 1em 'Raleway', sans-serif;
+}
+
+.buttonClass {
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: Arial;
+
+    width: 140px;
+    margin-top: 15px;
+    border-width: 1px;
+    border-color: #d83526;
+
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    box-shadow: inset 0px 1px 0px 0px #f7c5c0;
+    background: linear-gradient(#fc8d83, #e4685d);
+}
+
+.buttonClass:hover {
+    background: linear-gradient(#e4685d, #fc8d83);
+}
