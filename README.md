@@ -8,7 +8,7 @@ This is a web-based tool developed using HTML, CSS, and vanilla JavaScript that 
 
 This website includes the following features:
 
-* Choose the two colors manually using color pickers.
+* Choose two colors manually using color pickers.
 * Generate a random gradient background color with a single button click.
 * Copy the generated CSS code for the generated gradient background color which can be used in any projects.
 
